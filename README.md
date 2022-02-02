@@ -1,5 +1,5 @@
 # QuantumRooks-Queens
-A notebook with solution for 3 Rooks problem _given to us by RQC_ (To find all combinations how to put 3 Rooks on 3*3 field)
+A notebook with a solution for 3 Rooks problem _given to us by RQC_ (To find all combinations how to put 3 Rooks on 3*3 field)
 
 __It was created with Ivanov. D support__
 
